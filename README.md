@@ -242,15 +242,15 @@ This metric calculates the average DTI for all loans within the Month-to-Date (M
 
 **Good Loan Vs Bad Loan KPI** 
 
-Contains  - 
+**Contains  -** 
 
-1. Good Loan and bad Loan Application Percentage 
+**1. Good Loan and bad Loan Application Percentage** 
 
-2. Good Loan and Bad Loan Application 
+**2. Good Loan and Bad Loan Application** 
 
-3. Good Loan and Bad Loan Funded Amount 
+**3. Good Loan and Bad Loan Funded Amount** 
 
-4. Good Loan and Bad Loan Total Received Amount
+**4. Good Loan and Bad Loan Total Received Amount**
 
 **Grid View Report: Loan Performance by Loan Status**
 
@@ -277,7 +277,23 @@ To create a comprehensive grid view report categorized by 'Loan Status', which w
 ![BankLoanDashboardSummary](https://github.com/user-attachments/assets/d05a2bf7-809d-4643-9de7-c3671396d851)
 
 
+**DashBoard 2 Overview  -**
 
+**Charts To be Drawn  -** 
+
+**1.  Monthly Trends by Issue Date (Line Chart):**  To identify seasonality and long-term trends in lending activities.
+
+**2. Regional Analysis by State (Filled Map):** To identify regions with significant lending activity and assess regional disparities
+
+**3. Loan Term Analysis (Donut Chart)-** To allow the client to understand the distribution of loans across various term lengths.
+
+**4. Employee Length Analysis (Bar Chart)-** How lending metrics vary across borrowers with different employment lengths, allowing us to evaluate the influence of employment history on loan applications.
+
+**5. Loan Purpose Breakdown (Bar Chart)-**   Will offer a visual representation of loan metrics categorized by loan purposes, helping to clarify the main reasons borrowers request financing.
+
+**6. Home Ownership Analysis (Tree Map)-** To provide a hierarchical view of how homeownership affects loan applications and disbursements.
+
+![BankLoanDashboardOverview](https://github.com/user-attachments/assets/0ccf96cf-4877-43f3-b65a-1464d0d04d19)
 
 
 
