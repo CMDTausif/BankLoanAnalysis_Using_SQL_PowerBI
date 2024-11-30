@@ -211,7 +211,70 @@ Banks utilize data analysis to identify opportunities for retaining customers, s
 
 **•	Use for Banks:** Banks use the loan amount to determine the loan size and assess.
 
+### Dashboard 1 Summary – 
 
+**KPI Requirements -** 
+
+**1.Total Loan Applications:**
+
+Calculates the total number of loan applications received during a specified period. It also tracks Month-to-Date (MTD) loan applications and changes Month-over-Month (MoM).
+
+**2.Total Funded Amount –**
+
+Represents the total amount of funds disbursed as loans. It includes tracking the Month-to-Date (MTD) total funded amount and analyzing Month-over-Month (MoM) changes in this metric.
+
+**3.Total Amount Received –**
+
+Tracks the total amount received from borrowers as loan repayments. It includes monitoring the Month-to-Date (MTD) total amount received and analyzing Month-over-Month (MoM) changes.
+
+**4. Average Interest Rate –**
+
+Calculates the average interest rate across all loans, including Month-to-Date (MTD) data, and tracks Month-over-Month (MoM) variations.
+
+**5. Average Interest Rate (MTD and MOM Variations)–**
+
+This metric calculates the average interest rate for all loans within the Month-to-Date (MTD) period, while also tracking the Month-over-Month (MoM) changes in interest rates.
+
+**6. Average Debt To Income Ratio (MTD and MOM Variations)–**
+
+This metric calculates the average DTI for all loans within the Month-to-Date (MTD) period, while also tracking Month-over-Month (MoM) changes in the DTI values.
+
+
+**Good Loan Vs Bad Loan KPI** 
+
+Contains  - 
+
+1. Good Loan and bad Loan Application Percentage 
+
+2. Good Loan and Bad Loan Application 
+
+3. Good Loan and Bad Loan Funded Amount 
+
+4. Good Loan and Bad Loan Total Received Amount
+
+**Grid View Report: Loan Performance by Loan Status**
+
+**Purpose:**
+
+To create a comprehensive grid view report categorized by 'Loan Status', which will allow a detailed analysis of key metrics across different loan stages. This report will provide insights into the overall performance of the loans, helping banks make informed decisions.
+
+**Metrics to Include:**
+
+**1.	Total Loan Applications -** The total number of loan applications received during a given period.
+
+**2.	Total Funded Amount -** The total sum of loans disbursed.
+
+**3.	Total Amount Received -** The total amount repaid by borrowers.
+
+**4.	Month-to-Date (MTD) Funded Amount -** The sum of loans funded in the current month.
+
+**5.	MTD Amount Received -** The total amount received in repayments in the current month.
+
+**6.	Average Interest Rate -** The average annual interest rate across all loans.
+
+**7.	Average Debt-to-Income Ratio (DTI) -** The average DTI ratio of borrowers, providing insights into their financial capacity.
+
+![BankLoanDashboardSummary](https://github.com/user-attachments/assets/d05a2bf7-809d-4643-9de7-c3671396d851)
 
 
 
