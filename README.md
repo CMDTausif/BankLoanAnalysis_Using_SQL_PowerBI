@@ -3,7 +3,6 @@
 
 This project includes a comprehensive Details Dashboard that offers a user-friendly interface for accessing essential loan data. It provides detailed insights into the loan portfolio, borrower profiles, and loan performance, streamlining the analysis and management of lending activities.
 
-Bank loans are essential financial tools that support individuals and businesses in achieving their goals and managing financial needs. Borrowers should carefully understand the terms, costs, and responsibilities to make informed decisions.
 
 ## Terminologies For The Bank Loan Data
 
@@ -17,5 +16,34 @@ Bank loans are essential financial tools that support individuals and businesses
 
 **5. Third-Party Data Sources -** Banks may also utilize third-party data sources, like income verification services, to gather additional information about borrowers for a comprehensive assessment.
 
+### Process For Granting Loan
 
+**1. Loan Application -** The loan application process starts when a customer submits their application to a bank or lending institution, either in person, online, or through other available channels. 
 
+**2. Application Review -** During the application review, the lending institution evaluates the loan application and collects essential documents like income statements, credit reports, and identification.
+
+**3. Identity Verification -** Identity verification is an essential initial step to confirm the applicant's identity, ensuring authenticity and preventing identity theft.
+
+**4. Credit Check -** A credit check is a key step where lenders access the applicant's credit report from credit bureaus to assess their credit history, score, and any past delinquencies or defaults.
+
+**5. Income Verification  -** Income verification is conducted by lenders to assess the applicant's ability to repay the loan. This may involve reviewing pay stubs, tax returns, or other income-related documents.
+
+**6. DTI Check -** Lenders calculate the Debt-to-Income (DTI) ratio, which compares the applicant's monthly debt payments to their monthly income. A lower DTI suggests a stronger capacity to repay the loan.
+
+**7. Employee Verification  -** Lenders may verify the applicant's employment status and duration by contacting their employer. A stable employment history is typically viewed as a positive factor in the loan assessment.
+
+**8. Collateral Assessment -** If the loan is secured by collateral, such as a home or car, the lender assesses its value and condition to ensure it covers the loan amount in case of default.
+
+**9. Risk Assessment-**
+Lenders conduct a risk assessment to evaluate the overall risk of the loan. This includes analyzing the applicant's credit risk, income stability, and the purpose of the loan.
+
+**10. Loan Approval or Denial-** After gathering all necessary information and conducting a risk assessment, the lender decides whether to approve or deny the loan application. If approved, the lender determines the loan amount, interest rate, and terms.
+
+**11. Disbursement of Funds-**
+After both parties sign the loan agreement, the lender disburses the funds to the borrower, who can then use the funds for the specified purpose.
+
+**12. Repayment-**
+The borrower is responsible for making regular loan payments as outlined in the loan agreement, which includes repaying both the principal amount and interest.
+
+**13. Ongoing Monitoring-**
+Lenders monitor the loan throughout its term, tracking payments, evaluating the borrower's financial health, and addressing any delinquencies or defaults.
