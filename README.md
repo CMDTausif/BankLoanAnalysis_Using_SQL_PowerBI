@@ -296,11 +296,30 @@ To create a comprehensive grid view report categorized by 'Loan Status', which w
 ![BankLoanDashboardOverview](https://github.com/user-attachments/assets/0ccf96cf-4877-43f3-b65a-1464d0d04d19)
 
 
+### Dashboard 3 – 
+
+**GRID -**
+
+A comprehensive 'Details Dashboard' is needed to provide a consolidated view of all essential loan data, offering a holistic snapshot of key metrics and data points for efficient access to critical information.
+
+**Objective -**
+
+The Details Dashboard aims to provide a user-friendly interface for accessing essential loan data, serving as a one-stop solution for detailed insights into the loan portfolio, borrower profiles, and loan performance.
+
+![BankLoanDashboardDetails](https://github.com/user-attachments/assets/b9a550a6-2804-4ac7-96a2-22f11ce8e899)
 
 
+### Tools Used - 
 
+**1. Power BI**
 
+**2. MS SQL**
 
+**3. SQL Server Management Tool**
+
+### Conclusion - 
+
+To conclude, this project provides a powerful and intuitive Details Dashboard for efficiently tracking and analyzing loan data. By offering comprehensive insights into key metrics such as loan status, borrower profiles, repayment trends, and risk assessments, it empowers users to make informed, data-driven decisions. This tool is designed to enhance the management and monitoring of loan portfolios, ensuring better loan performance and more accurate financial forecasting.
 
 
 
